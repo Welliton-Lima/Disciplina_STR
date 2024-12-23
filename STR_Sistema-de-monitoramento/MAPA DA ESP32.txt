@@ -1,0 +1,8 @@
+D32 =  0x200 -> NUM 9
+D33 = 0x100  -> NUM 8
+D27 = 0x80   -> NUM 7
+D14 = 0x40   -> NUM 6
+D13 = 0x10   -> NUM 4
+D04 = 0x1     -> NUM 0
+
+(D12 =  0x20 -> NUM 5) Não usado
