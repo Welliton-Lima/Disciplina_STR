@@ -55,11 +55,16 @@ O sistema simula a operação em tempo real de sensores e controladores para:
 ### Passos para Configurar e Executar
 
 1. **Configurar o ambiente**:
+   Configurações para executar aplicações em c++ no VScode.
+   Baixar a extensão C/C++
+   Baixar o C/C++ Compile Run
+   Baixar e configurar o MinGW
 
-2. **Compilar o projeto**:
-
-3. **Executar o simulador**:
-
+3. **Compilar o projeto**:
+   Abrir o projeto na IDE e executar.
+   Pressionar F6 para compilar e gerar o executável
+   
+5. **Executar o simulador**:
 ---
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Hello World Example
