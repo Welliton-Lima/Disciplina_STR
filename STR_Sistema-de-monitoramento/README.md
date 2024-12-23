@@ -1,3 +1,67 @@
+# Simulador de Sistema de Monitoramento em Tempo Real para Poço de Gás e Óleo
+
+Este projeto é um **simulador de sistema de monitoramento em tempo real** desenvolvido em **C++** utilizando o **FreeRTOS** para gerenciar as tarefas em tempo real.
+
+---
+
+## 🎯 Objetivo do Projeto
+
+O sistema simula a operação em tempo real de sensores e controladores para:
+- **Monitorar variáveis críticas**
+- **Gerenciar alarmes** em situações de emergência.
+- **Executar ações automatizadas** como desligamento de válvulas e controle de fluxo.
+- **Exibir dados em tempo real** no terminal.
+
+---
+
+## 🛠️ Funcionalidades
+
+- **Coleta e Processamento de Dados**:
+  - Simulação de sensores com geração de valores em tempo real.
+- **Gerenciamento de Tarefas**:
+  - Uso do FreeRTOS para agendamento de tarefas periódicas.
+- **Gestão de Alarmes**:
+  - Detecção de condições críticas e acionamento de alarmes.
+- **Simulação de Ações**:
+  - Controle de atuadores como válvulas e bombas.
+- **Visualização em Tempo Real**:
+  - Dados exibidos no terminal para análise.
+
+---
+
+## 🚀 Como executar
+
+### Pré-requisitos
+
+1. **Visual Studio Code**:
+   - Baixe e instale o [Visual Studio Code](https://code.visualstudio.com/).
+   - Configure as extensões de C/C++.
+
+2. **FreeRTOS**:
+   - Baixe a última versão do [FreeRTOS](https://www.freertos.org/).
+   - Inclua os arquivos necessários na pasta do projeto.
+
+3. **Compilador C++**:
+   - GCC ou qualquer compilador compatível com o ambiente configurado no VS Code.
+
+4. **Código-fonte**:
+   - Clone ou baixe este repositório:
+     ```bash
+     git clone https://github.com/Welliton-Lima/simulador-monitoramento-poco.git
+     ```
+
+---
+
+### Passos para Configurar e Executar
+
+1. **Configurar o ambiente**:
+
+2. **Compilar o projeto**:
+
+3. **Executar o simulador**:
+
+---
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Hello World Example
 
 Starts a FreeRTOS task to print "Hello World".
